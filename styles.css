@@ -1,0 +1,11 @@
+/* TODO: Improve the styling of this page */
+body {
+  background-color: aliceblue;
+  font-family: "Lucinda Console", monospace
+}
+
+#listings {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 2rem;
+}
